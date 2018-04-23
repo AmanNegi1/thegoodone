@@ -1,0 +1,33 @@
+from line 290 will be soon
+
+
+<div class="container">    
+  <div class="row">
+    <a href="other/digitalworld.html" name="digitalworld">
+    <div class="col-sm-4">
+      <div class="panel panel-primary">
+        <div class="panel-heading">SmartPhone with digital world</div>
+        <div class="panel-body"><img src="smartphone2.jpg" class="img-responsive" style="width:70%" alt="digitalworld"></div>
+        <div class="panel-footer">Technology your mobile phone uses.</div>
+      </div>
+    </div>
+   </a>
+   <a href="other/new360.html" name="news">
+    <div class="col-sm-4"> 
+      <div class="panel panel-primary">
+        <div class="panel-heading">NORT EAST WEST SOUTH</div>
+        <div class="panel-body"><img src="technews.jpg" class="img-responsive" style="width:71%" alt="news"></div>
+        <div class="panel-footer">Technology teachs</div>
+      </div>
+    </div>
+  </a>
+
+  <a href="other/gamers.html" name="gamers">
+    <div class="col-sm-4"> 
+      <div class="panel panel-primary">
+        <div class="panel-heading">infinity gamers</div>
+        <div class="panel-body"><img src="gamerslogo.jpg" class="img-responsive" style="width:100%" alt="Image"></div>
+        <div class="panel-footer">Don't wait for someone</div>
+      </div>
+    </div>
+  </a>

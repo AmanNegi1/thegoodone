@@ -1,0 +1,13 @@
+body{
+	background-color: #33FF57;
+}
+.col-sm-10{
+	background-color: #EAE9ED;
+}
+#sidebar a {
+	color: #4912B0; 
+}
+.blogpost{
+	background-color: blue;
+	overflow: hidden;
+}
